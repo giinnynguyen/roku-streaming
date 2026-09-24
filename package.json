@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build:dev": "node ./cicd/build.js"
+  },
+  "devDependencies": {
+    "roku-deploy": "^3.18.4"
+  }
+}
